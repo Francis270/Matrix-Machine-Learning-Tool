@@ -1,3 +1,6 @@
+// created by François Caïcedo
+// francois.caicedo@epitech.eu
+
 #pragma once
 
 #include <iostream>
